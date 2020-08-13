@@ -1324,6 +1324,9 @@ section.lazy-placeholder:after {
   display: flex;
   flex-direction: column-reverse;
 }
+.cid-rDrtGUUGHO .mbr-timeline-text {
+  text-align: left;
+}
 .cid-rDrxmvErMq {
   padding-top: 90px;
   padding-bottom: 60px;
